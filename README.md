@@ -1,2 +1,5 @@
 # Mi-primer-repositorio
 El objetivo es crear un repositorio con el fin de poner en práctica los contenidos aprendidos en la asignatura de Entornos de Desarrollo y consolidar los conocimientos en relación a las principales funciones del control de versiones en Github.
+Mi nombre es Alicia Pérez Canlas y estoy colaborando en un proyecto de clase junto  con otros alumnos.  Somos un equipo de 30 personas y estamos aprendiendo a  usar la plataforma GitHub. En primer lugar hemos creado un repositorio  y dentro del repositorio hemos creado una rama principal  (main) y una segunda rama para realizar cambios en ella sin que afecten a la rama principal. Cada miembro del equipo trabajará en su propia rama de manera asíncrona para después  poner en común esos cambios. La  tarea siguiente será  realizar un Pull request para proponer los cambios realizados y solicitar su inclusión en la rama principal. 
+Se ha realizado una descripción del proyecto y del objetivo del mismo tras la clase del pasado viernes  15/01/2021.
+Lor requisitos solicitados por la docente Mercedes Urios de las Heras es fusionar los cambios de la rama de ediciones a la rama principales.
